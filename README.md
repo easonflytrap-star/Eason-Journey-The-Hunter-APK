@@ -10,4 +10,4 @@ Debug build of the game, for Android 8.0 (API 26) and up, ARM64.
 2. Allow "install unknown apps" for the browser or file manager when Android asks.
 3. Open the APK and install. The app name on the phone is 翌森之旅:獵手.
 
-This is a development (debug) build and may have bugs. Built 2026-10-28 from commit `ea465f2` of the source project.
+This is a development (debug) build and may have bugs. Built 2026-11-01 from commit `b3c24b6` of the source project.
